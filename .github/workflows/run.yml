@@ -50,8 +50,8 @@ jobs:
         run: |
           git config --local user.name "donantoniosantos"
           git config --local user.email "donantoniosantos@gmail.com"
-          git add test.csv
-          git commit -m 'checks'
+          git add ips.csv
+          git commit -m 'new zscaler file'
           git push -u origin master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
