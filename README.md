@@ -1,2 +1,2 @@
 # zscaler-ip-check
-Automated github action workflow to check if Zscaler has updated any datacenter endpoints' IP Addresses and CIDR ranges
+Scheduled github action workflow set to run every six hours to check if Zscaler has updated any datacenter endpoints' IP Addresses and CIDR ranges.
