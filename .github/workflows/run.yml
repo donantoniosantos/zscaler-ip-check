@@ -52,6 +52,6 @@ jobs:
           git config --local user.email "donantoniosantos@gmail.com"
           git add ips.csv
           git commit -m 'new zscaler file'
-          git push -u origin master
+          git push -u origin main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
