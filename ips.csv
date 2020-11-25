@@ -5,8 +5,10 @@ NRU,Not Ready for Use,The Data Center is coming up online but can not be used ye
 Not in Gateway,The data center is not used in PAC files.
 Location,IP Address (CIDR Notation),Proxy Hostname,GRE Virtual IP,VPN Host Name,Notes
 EMEA,Copy IP Addresses
+Abu Dhabi I,147.161.174.0/23,,147.161.174.0,,
 Amsterdam,185.46.212.0/23,ams2.sme.zscaler.net,185.46.212.32,amsterdam2-vpn.zscaler.net,
 Amsterdam II,165.225.240.0/23,ams2-2.sme.zscaler.net,165.225.240.12,ams2-2-vpn.zscaler.net,Not in Gateway
+Amsterdam II,147.161.172.0/23,,147.161.172.0,,
 Brussels,165.225.88.0/23,bru1.sme.zscaler.net,165.225.88.32,bru1-vpn.zscaler.net,"DNP,Not in Gateway"
 Brussels II,165.225.12.0/23,bru2.sme.zscaler.net,165.225.12.12,bru2-vpn.zscaler.net,
 Capetown,196.23.154.64/27,capetown1.sme.zscaler.net,196.23.154.86,capetown1-vpn.zscaler.net,RS
@@ -31,6 +33,7 @@ Moscow II,165.225.66.0/24,mow2.sme.zscaler.net,165.225.66.32,mow2-vpn.zscaler.ne
 Moscow III,165.225.90.0/23,mow3.sme.zscaler.net,165.225.90.12,mow3-vpn.zscaler.net,
 Munich I,147.161.168.0/23,,147.161.168.0,,NRU
 Munich I,147.161.170.0/23,,147.161.170.0,,NRU
+Munich I,147.161.176.0/23,,147.161.176.0,,
 Oslo II,213.52.102.0/24,osl2.sme.zscaler.net,213.52.102.8,osl2-vpn.zscaler.net,
 Paris II,165.225.76.0/23,par2.sme.zscaler.net,165.225.76.32,par2-vpn.zscaler.net,
 Paris II,165.225.20.0/23,par2-2.sme.zscaler.net,165.225.20.12,par2-2-vpn.zscaler.net,Not in Gateway
