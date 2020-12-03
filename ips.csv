@@ -12,7 +12,6 @@ Amsterdam II,147.161.172.0/23,,147.161.172.0,,NRU
 Brussels,165.225.88.0/23,bru1.sme.zscaler.net,165.225.88.32,bru1-vpn.zscaler.net,"DNP,Not in Gateway"
 Brussels II,165.225.12.0/23,bru2.sme.zscaler.net,165.225.12.12,bru2-vpn.zscaler.net,
 Capetown,196.23.154.64/27,capetown1.sme.zscaler.net,196.23.154.86,capetown1-vpn.zscaler.net,RS
-Copenhagen,165.225.64.0/24,cph1.sme.zscaler.net,165.225.64.32,cph1-vpn.zscaler.net,"DNP,Not in Gateway"
 Copenhagen II,165.225.194.0/23,cph2.sme.zscaler.net,165.225.194.12,cph2-vpn.zscaler.net,
 Dubai I,147.161.160.0/23,dxb1.sme.zscaler.net,147.161.160.12,dxb1-vpn.zscaler.net,"RS,Not in Gateway"
 Frankfurt IV,165.225.72.0/22,fra4.sme.zscaler.net,165.225.72.32,fra4-vpn.zscaler.net,
@@ -20,7 +19,6 @@ Frankfurt IV,165.225.26.0/23,fra4-2.sme.zscaler.net,165.225.26.12,fra4-2-vpn.zsc
 Frankfurt IV,147.161.164.0/23,,147.161.164.0,,NRU
 Johannesburg II,197.98.201.0/24,jnb2.sme.zscaler.net,197.98.201.9,jnb2-vpn.zscaler.net,RS
 Johannesburg III,147.161.162.0/23,,147.161.162.0,,NRU
-Lagos,197.156.241.224/27,lagos1.sme.zscaler.net,197.156.241.242,,"DNP,RS,Not in Gateway"
 Lagos II,154.113.23.0/24,los2.sme.zscaler.net,154.113.23.10,los2-vpn.zscaler.net,RS
 London III,165.225.80.0/22,lon3.sme.zscaler.net,165.225.80.32,lon3-vpn.zscaler.net,
 London III,147.161.166.0/23,,147.161.166.0,,NRU
@@ -41,9 +39,7 @@ Rouen I,165.225.204.0/23,uro1.sme.zscaler.net,165.225.204.12,uro1-vpn.zscaler.ne
 Stockholm III,165.225.192.0/23,sto3.sme.zscaler.net,165.225.192.12,sto3-vpn.zscaler.net,
 Tel Aviv,94.188.248.64/26,tlv1.sme.zscaler.net,94.188.248.71,tlv1-vpn.zscaler.net,Not in Gateway
 Vienna I,165.225.200.0/23,vie1.sme.zscaler.net,165.225.200.12,vie1-vpn.zscaler.net,
-Warsaw,165.225.84.0/23,waw1.sme.zscaler.net,165.225.84.32,waw1-vpn.zscaler.net,"DNP,Not in Gateway"
 Warsaw II,165.225.206.0/23,waw2.sme.zscaler.net,165.225.206.12,waw2-vpn.zscaler.net,
-Zurich,185.46.214.0/23,zrh1.sme.zscaler.net,185.46.214.32,zrh1-vpn.zscaler.net,"DNP,Not in Gateway"
 Zurich,165.225.94.0/23,zrh1-2.sme.zscaler.net,165.225.94.12,zrh1-2-vpn.zscaler.net,
 Americas,Copy IP Addresses
 Atlanta II,104.129.204.0/23,atl2.sme.zscaler.net,104.129.204.32,atl2-vpn.zscaler.net,
@@ -54,7 +50,6 @@ Dallas I,165.225.216.0/23,dfw1-2.sme.zscaler.net,165.225.216.12,dfw1-2-vpn.zscal
 Denver,104.129.200.0/24,den2.sme.zscaler.net,104.129.200.32,den2-vpn.zscaler.net,"DNP,Not in Gateway"
 Denver III,165.225.10.0/23,den3.sme.zscaler.net,165.225.10.12,den3-vpn.zscaler.net,
 Los Angeles,104.129.198.0/23,qla1.sme.zscaler.net,104.129.198.32,qla1-vpn.zscaler.net,
-Miami II,165.225.32.0/23,mia2.sme.zscaler.net,165.225.32.32,mia2-vpn.zscaler.net,"DNP,Not in Gateway"
 Miami III,165.225.222.0/23,mia3.sme.zscaler.net,165.225.222.12,mia3-vpn.zscaler.net,
 Montreal I,165.225.212.0/23,,165.225.212.0,,NRU
 New York III,165.225.38.0/23,nyc3.sme.zscaler.net,165.225.38.36,nyc3-vpn.zscaler.net,
@@ -65,7 +60,6 @@ Sao Paulo,64.215.22.0/24,sao2.sme.zscaler.net,64.215.22.32,saopaulo2-vpn.zscaler
 Sao Paulo II,165.225.214.0/23,sao2-2.sme.zscaler.net,165.225.214.16,sao2-2-vpn.zscaler.net,"DNP,RS"
 Sao Paulo IV,147.161.128.0/23,sao4.sme.zscaler.net,147.161.128.12,sao4-vpn.zscaler.net,"RS,Not in Gateway"
 Seattle,165.225.50.0/23,sea1.sme.zscaler.net,165.225.50.8,sea1-vpn.zscaler.net,
-Toronto II,165.225.36.0/23,yto2.sme.zscaler.net,165.225.36.32,yto2-vpn.zscaler.net,"DNP,Not in Gateway"
 Toronto III,165.225.208.0/23,yto3.sme.zscaler.net,165.225.208.12,yto3-vpn.zscaler.net,
 Vancouver I,165.225.210.0/23,yvr1.sme.zscaler.net,165.225.210.12,yvr1-vpn.zscaler.net,
 Washington DC,104.129.194.0/23,was1.sme.zscaler.net,104.129.194.32,was1-vpn.zscaler.net,"DNP,Not in Gateway"
@@ -77,7 +71,6 @@ Chennai,165.225.104.0/24,maa1.sme.zscaler.net,165.225.104.32,maa1-vpn.zscaler.ne
 Chennai II,165.225.122.0/23,maa2.sme.zscaler.net,165.225.122.12,maa2-vpn.zscaler.net,
 Hong Kong III,165.225.116.0/23,hkg3.sme.zscaler.net,165.225.116.8,hkg3-vpn.zscaler.net,
 Hong Kong III,165.225.234.0/23,,165.225.234.0,,NRU
-Kuala Lumpur,49.236.207.160/27,kualalumpur1.sme.zscaler.net,49.236.207.190,kualalumpur1-vpn.zscaler.net,"DNP,Not in Gateway"
 Kuala Lumpur I,112.137.170.0/24,kul1.sme.zscaler.net,112.137.170.10,kul1-vpn.zscaler.net,Not in Gateway
 Melbourne,165.225.98.0/24,mel1.sme.zscaler.net,165.225.98.32,mel1-vpn.zscaler.net,"DNP,RS"
 Melbourne II,165.225.226.0/23,mel2.sme.zscaler.net,165.225.226.12,mel2-vpn.zscaler.net,RS
