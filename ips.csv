@@ -44,7 +44,10 @@ Zurich,165.225.94.0/23,zrh1-2.sme.zscaler.net,165.225.94.12,zrh1-2-vpn.zscaler.n
 Americas,Copy IP Addresses
 Atlanta II,104.129.204.0/23,atl2.sme.zscaler.net,104.129.204.32,atl2-vpn.zscaler.net,
 Chicago,104.129.196.0/23,chi1.sme.zscaler.net,104.129.196.32,chi1-vpn.zscaler.net,DNP
+Chicago,128.177.125.0/24,,128.177.125.0,,NRU
+Chicago,165.225.0.0/23,,165.225.0.0,,NRU
 Chicago,165.225.56.0/22,chi1-2.sme.zscaler.net,165.225.56.12,chi1-2-vpn.zscaler.net,
+Chicago,165.225.60.0/22,,165.225.60.0,,NRU
 Dallas I,165.225.34.0/23,dfw1.sme.zscaler.net,165.225.34.32,dfw1-vpn.zscaler.net,DNP
 Dallas I,165.225.216.0/23,dfw1-2.sme.zscaler.net,165.225.216.12,dfw1-2-vpn.zscaler.net,Not in Gateway
 Denver,104.129.200.0/24,den2.sme.zscaler.net,104.129.200.32,den2-vpn.zscaler.net,"DNP,Not in Gateway"
@@ -98,6 +101,7 @@ Upcoming DC III,165.225.0.0/17,,,,
 Upcoming DC IV,165.225.192.0/18,,,,
 Upcoming DC V,147.161.128.0/17,,,,
 Upcoming DC VI,136.226.0.0/16,,,,
+Upcoming DC VII,137.83.128.0/18,,,,
 Global ZEN IP addresses
 185.46.212.88,185.46.212.89,185.46.212.90,185.46.212.91
 185.46.212.92,185.46.212.93,185.46.212.97,185.46.212.98
