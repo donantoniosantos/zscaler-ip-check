@@ -48,6 +48,8 @@ Chicago,128.177.125.0/24,,128.177.125.0,,NRU
 Chicago,165.225.0.0/23,,165.225.0.0,,NRU
 Chicago,165.225.56.0/22,chi1-2.sme.zscaler.net,165.225.56.12,chi1-2-vpn.zscaler.net,
 Chicago,165.225.60.0/22,,165.225.60.0,,NRU
+Chicago,137.83.154.0/24,,137.83.154.0,,NRU
+Chicago,165.225.2.0/24,,165.225.2.0,,NRU
 Dallas I,165.225.34.0/23,dfw1.sme.zscaler.net,165.225.34.32,dfw1-vpn.zscaler.net,DNP
 Dallas I,165.225.216.0/23,dfw1-2.sme.zscaler.net,165.225.216.12,dfw1-2-vpn.zscaler.net,Not in Gateway
 Denver,104.129.200.0/24,den2.sme.zscaler.net,104.129.200.32,den2-vpn.zscaler.net,"DNP,Not in Gateway"
