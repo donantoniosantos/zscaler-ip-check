@@ -56,6 +56,7 @@ Dallas I,165.225.216.0/23,dfw1-2.sme.zscaler.net,165.225.216.12,dfw1-2-vpn.zscal
 Denver,104.129.200.0/24,den2.sme.zscaler.net,104.129.200.32,den2-vpn.zscaler.net,"DNP,Not in Gateway"
 Denver III,165.225.10.0/23,den3.sme.zscaler.net,165.225.10.12,den3-vpn.zscaler.net,
 Los Angeles,104.129.198.0/23,qla1.sme.zscaler.net,104.129.198.32,qla1-vpn.zscaler.net,
+Mexico City I,136.226.0.0/23,,136.226.0.0,,NRU
 Miami III,165.225.222.0/23,mia3.sme.zscaler.net,165.225.222.12,mia3-vpn.zscaler.net,
 Montreal I,165.225.212.0/23,,165.225.212.0,,NRU
 New York III,165.225.38.0/23,nyc3.sme.zscaler.net,165.225.38.36,nyc3-vpn.zscaler.net,
