@@ -43,6 +43,7 @@ Warsaw II,165.225.206.0/23,waw2.sme.zscaler.net,165.225.206.12,waw2-vpn.zscaler.
 Zurich,165.225.94.0/23,zrh1-2.sme.zscaler.net,165.225.94.12,zrh1-2-vpn.zscaler.net,
 Americas,Copy IP Addresses
 Atlanta II,104.129.204.0/23,atl2.sme.zscaler.net,104.129.204.32,atl2-vpn.zscaler.net,
+Atlanta II,104.129.206.0/23,,104.129.206.0,,NRU
 Chicago,104.129.196.0/23,chi1.sme.zscaler.net,104.129.196.32,chi1-vpn.zscaler.net,DNP
 Chicago,128.177.125.0/24,,128.177.125.0,,NRU
 Chicago,165.225.0.0/23,,165.225.0.0,,NRU
@@ -84,8 +85,8 @@ Mumbai IV,165.225.106.0/23,bom4.sme.zscaler.net,165.225.106.32,bom4-vpn.zscaler.
 Mumbai VI,165.225.120.0/23,bom6.sme.zscaler.net,165.225.120.12,bom6-vpn.zscaler.net,
 New Delhi I,165.225.124.0/23,del1.sme.zscaler.net,165.225.124.12,del1-vpn.zscaler.net,
 Osaka I,147.161.192.0/23,osa1.sme.zscaler.net,147.161.192.12,osa1-vpn.zscaler.net,Not in Gateway
-Seoul I,165.225.228.0/23,,165.225.228.0,,NRU
-Seoul III,1.234.57.0/24,sel3.sme.zscaler.net,1.234.57.8,sel3-vpn.zscaler.net,"RS,Not in Gateway"
+Seoul I,165.225.228.0/23,sel1.sme.zscaler.net,165.225.228.12,sel1-vpn.zscaler.net,"RS,Not in Gateway"
+Seoul III,1.234.57.0/24,sel3.sme.zscaler.net,1.234.57.8,sel3-vpn.zscaler.net,"DNP,RS,Not in Gateway"
 Shanghai,58.220.95.0/24,sha1.sme.zscaler.net,58.220.95.8,sha1-vpn.zscaler.net,"RS,Not in Gateway"
 Singapore IV,165.225.112.0/23,sin4.sme.zscaler.net,165.225.112.8,sin4-vpn.zscaler.net,
 Singapore IV,165.225.230.0/23,,165.225.230.0,,NRU
