@@ -21,7 +21,7 @@ Johannesburg II,197.98.201.0/24,jnb2.sme.zscaler.net,197.98.201.9,jnb2-vpn.zscal
 Johannesburg III,147.161.162.0/23,,147.161.162.0,,NRU
 Lagos II,154.113.23.0/24,los2.sme.zscaler.net,154.113.23.10,los2-vpn.zscaler.net,RS
 London III,165.225.80.0/22,lon3.sme.zscaler.net,165.225.80.32,lon3-vpn.zscaler.net,
-London III,147.161.166.0/23,,147.161.166.0,,NRU
+London III,147.161.166.0/23,,147.161.166.0,,
 Madrid III,165.225.92.0/23,Mad3.sme.zscaler.net,165.225.92.12,Mad3-vpn.zscaler.net,
 Manchester I,165.225.196.0/23,Man1.sme.zscaler.net,165.225.196.12,Man1-vpn.zscaler.net,
 Manchester I,165.225.198.0/23,,165.225.198.0,,NRU
