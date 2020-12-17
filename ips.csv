@@ -44,6 +44,7 @@ Zurich,165.225.94.0/23,zrh1-2.sme.zscaler.net,165.225.94.12,zrh1-2-vpn.zscaler.n
 Americas,Copy IP Addresses
 Atlanta II,104.129.204.0/23,atl2.sme.zscaler.net,104.129.204.32,atl2-vpn.zscaler.net,
 Atlanta II,104.129.206.0/23,,104.129.206.0,,NRU
+Atlanta II,136.226.2.0/23,,136.226.2.0,,NRU
 Chicago,104.129.196.0/23,chi1.sme.zscaler.net,104.129.196.32,chi1-vpn.zscaler.net,DNP
 Chicago,128.177.125.0/24,,128.177.125.0,,NRU
 Chicago,165.225.0.0/23,,165.225.0.0,,NRU
@@ -66,7 +67,7 @@ San Francisco IV,104.129.192.0/23,sjc4.sme.zscaler.net,104.129.192.32,sjc4-vpn.z
 San Francisco IV,165.225.242.0/23,sjc4-2.sme.zscaler.net,165.225.242.12,sjc4-2-vpn.zscaler.net,
 Sao Paulo,64.215.22.0/24,sao2.sme.zscaler.net,64.215.22.32,saopaulo2-vpn.zscaler.net,"DNP,RS,Not in Gateway"
 Sao Paulo II,165.225.214.0/23,sao2-2.sme.zscaler.net,165.225.214.16,sao2-2-vpn.zscaler.net,"DNP,RS"
-Sao Paulo IV,147.161.128.0/23,sao4.sme.zscaler.net,147.161.128.12,sao4-vpn.zscaler.net,"RS,Not in Gateway"
+Sao Paulo IV,147.161.128.0/23,sao4.sme.zscaler.net,147.161.128.12,sao4-vpn.zscaler.net,RS
 Seattle,165.225.50.0/23,sea1.sme.zscaler.net,165.225.50.8,sea1-vpn.zscaler.net,
 Toronto III,165.225.208.0/23,yto3.sme.zscaler.net,165.225.208.12,yto3-vpn.zscaler.net,
 Vancouver I,165.225.210.0/23,yvr1.sme.zscaler.net,165.225.210.12,yvr1-vpn.zscaler.net,
@@ -85,7 +86,7 @@ Melbourne II,165.225.226.0/23,mel2.sme.zscaler.net,165.225.226.12,mel2-vpn.zscal
 Mumbai IV,165.225.106.0/23,bom4.sme.zscaler.net,165.225.106.32,bom4-vpn.zscaler.net,DNP
 Mumbai VI,165.225.120.0/23,bom6.sme.zscaler.net,165.225.120.12,bom6-vpn.zscaler.net,
 New Delhi I,165.225.124.0/23,del1.sme.zscaler.net,165.225.124.12,del1-vpn.zscaler.net,
-Osaka I,147.161.192.0/23,osa1.sme.zscaler.net,147.161.192.12,osa1-vpn.zscaler.net,Not in Gateway
+Osaka I,147.161.192.0/23,osa1.sme.zscaler.net,147.161.192.12,osa1-vpn.zscaler.net,
 Seoul I,165.225.228.0/23,sel1.sme.zscaler.net,165.225.228.12,sel1-vpn.zscaler.net,"RS,Not in Gateway"
 Seoul III,1.234.57.0/24,sel3.sme.zscaler.net,1.234.57.8,sel3-vpn.zscaler.net,"DNP,RS,Not in Gateway"
 Shanghai,58.220.95.0/24,sha1.sme.zscaler.net,58.220.95.8,sha1-vpn.zscaler.net,"RS,Not in Gateway"
