@@ -33,7 +33,7 @@ jobs:
           
       - name: wget webpage
         run: |
-          wget https://ips.zscaler.net/cenr
+          wget https://config.zscaler.com/zscaler.net/cenr
           
       - name: update python and install dependencies
         run: |
